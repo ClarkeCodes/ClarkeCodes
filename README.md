@@ -30,5 +30,5 @@ Some of the strengths previous employers and coworkers have complimented me on:
 - 👯  &nbsp; Always being open to feedback, as well as being patient when helping and teaching others
 
 
- I'm currently interested in junior frontend developer positions, but open to other positions if there's opportunities to learn and grow on the job.
+ I'm currently interested in junior frontend developer positions, but open to other roles if there's opportunities to learn and grow on the job.
 
