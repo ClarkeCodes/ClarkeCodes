@@ -21,7 +21,9 @@ Thanks for checking out by my GitHub page. Below you'll find some of the project
 :speech_balloon: &nbsp; If you want to be in touch, you can usually find me lurking [on Twitter](https://twitter.com/ElineJacobse). <br>
 
 
-:briefcase: &nbsp; Are you hiring? I would love to connect and see if I could be a right fit for your company. 
+## :briefcase: &nbsp; Are you hiring? 
+
+I would love to connect and see if I could be a right fit for your company. 
 
 Some of the strengths previous employers and coworkers have complimented me on include:
 - :bulb:  &nbsp; My ability to quickly learn and master new skills 
