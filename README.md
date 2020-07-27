@@ -21,7 +21,7 @@ Thanks for checking out by my GitHub page. Below you'll find some of the project
 :speech_balloon: &nbsp; If you want to be in touch, you can usually find me lurking [on Twitter](https://twitter.com/ElineJacobse). <br>
 
 
-## :briefcase: &nbsp; Are you hiring? 
+### :briefcase: &nbsp; Are you hiring? 
 
 I would love to connect and see if I could be a right fit for your company. 
 
