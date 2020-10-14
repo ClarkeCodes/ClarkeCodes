@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 Thanks for checking out by my GitHub page. Below you'll find some of the projects I've been working on. 
 
-:point_right: &nbsp; For more of my work, checkout [my site](https://elinejacobse.com/)! <br>
 :speech_balloon: &nbsp; If you want to be in touch, you can usually find me lurking [on Twitter](https://twitter.com/ElineJacobse). <br>
 
 
