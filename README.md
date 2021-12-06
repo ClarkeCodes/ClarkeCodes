@@ -27,7 +27,7 @@ I would love to connect and see if I could be a right fit for your company.
 Some of the strengths previous employers and coworkers have complimented me on include:
 - :bulb:  &nbsp; My ability to quickly learn and master new skills 
 - :mag_right: &nbsp; Being resourceful and good at getting to the heart of a problem
-- ✨  &nbsp; Having a good eye for design
+- ✨  &nbsp; Having a knack for design
 - 👯  &nbsp; Always being open to feedback, as well as being patient when helping and teaching others
 
 
