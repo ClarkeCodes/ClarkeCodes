@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ElineJ/ElineJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ClarkeCodes/ClarkeCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Thanks for checking out by my GitHub page. Below you'll find some of the projects I've been working on. 
+
+You can also find me on [CodePen](https://codepen.io/clarkeJ).
