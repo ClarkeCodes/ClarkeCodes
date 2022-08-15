@@ -37,5 +37,5 @@ I help kids turn their ideas into code by day, and make websites by night. Check
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarkecodes&hide=html&layout=compact)](https://github.com/clarkecodes/github-readme-stats)
 
-Thanks for checking out by my GitHub page. Below you'll find some of the projects I've been working on. 
+Thanks for checking out by my GitHub page! Below you'll find some of the projects I've worked on. 
 
