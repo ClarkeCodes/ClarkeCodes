@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 I help kids turn their ideas into code by day, and make websites by night. Check out my [CodePen](https://codepen.io/clarkeJ).
 
 - 🔭 Most recently gained experience in: C#
-- 🌱 Currently exploring: React
+- 🌱 Currently exploring: Game Development in Unity
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love stationary, and am particularly a fan of Japanese pens
-- 🎲 When I'm not online: I enjoy playing board games, making art and taking photos of beautiful everyday things
+- 🎲 When I'm not online: I enjoy playing board games, making art, playing the drums and taking photos of my cats
 
 
 ## My technologies include:
